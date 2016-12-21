@@ -13,6 +13,7 @@ https://www.kaggle.com/benhamner/clinton-trump-tweets
 ## Contents:
 
 election2016.ipynb: Jupiter notebook with the R code and results.
+
 data/clinton-trump-tweets.zip: dataset from kaggle
 
 ## Notebook setup:
