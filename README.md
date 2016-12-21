@@ -1,3 +1,5 @@
+# Clinton and Trump may have used some Machine Learning
+
 In this study, we use social media data (specifically Twitter) to provide insights on each candidate's popularity, 
 tweeting patterns, and most common topics. Additionally, we attempt to model and predict the success of a new candidate's tweet.
 
@@ -8,12 +10,12 @@ was retweeted by users, number of times it was marked as favorite, along with so
 The dataset can be downloaded from the Kaggle website: 
 https://www.kaggle.com/benhamner/clinton-trump-tweets
 
-Contents:
+## Contents:
 
 election2016.ipynb: Jupiter notebook with the R code and results.
 data/clinton-trump-tweets.zip: dataset from kaggle
 
-Notebook setup:
+## Notebook setup:
 
 To import and run the notebook in our Data Science experience platform, follow the setup instructions here:
 https://github.com/IBMDataScience/word2vec
