@@ -19,4 +19,4 @@ data/clinton-trump-tweets.zip: dataset from kaggle
 ## Notebook setup:
 
 To import and run the notebook in our Data Science experience platform, follow the setup instructions here:
-https://github.com/IBMDataScience/word2vec
+https://github.com/IBMDataScience/getting-started
