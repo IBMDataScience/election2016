@@ -20,3 +20,5 @@ data/clinton-trump-tweets.zip: dataset from kaggle
 
 To import and run the notebook in our Data Science experience platform, follow the setup instructions here:
 https://github.com/IBMDataScience/getting-started
+
+_When setting up our DSX tool, choose the Jupyter bundle that includes R support to process this notebook._
